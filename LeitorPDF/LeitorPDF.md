@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/leandrox364/MonitoramentoFB/blob/main/MonitoramentoDB/imagem/logo.png">
-    <img alt="Leitor de PDF" height="150" src="https://github.com/leandrox364/MonitoramentoFB/blob/main/MonitoramentoDB/imagem/logo.png">
+    <img alt="Leitor de PDF" height="150" src="https://github.com/leandrox364/LeitorPDF/blob/main/LeitorPDF/Bandeira%20Brasil.png">
   </a>  
 </p><br>
 <p align="center">
@@ -8,9 +8,6 @@
   sem opções de Salvar/Editar/Imprimir.
  
 </p><br>
-<p align="center">
-  <img src="https://github.com/leandrox364/MonitoramentoFB/blob/main/MonitoramentoDB/imagem/logo2.png">
-</p>
  
 ## ⚙️ Instalação 
 
